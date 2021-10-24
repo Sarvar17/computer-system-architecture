@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/homework_2.dir/main.cpp.o CMakeFiles/homework_2.dir/language.cpp.o CMakeFiles/homework_2.dir/procedure.cpp.o CMakeFiles/homework_2.dir/functional.cpp.o CMakeFiles/homework_2.dir/oop.cpp.o CMakeFiles/homework_2.dir/container.cpp.o -o homework_2 

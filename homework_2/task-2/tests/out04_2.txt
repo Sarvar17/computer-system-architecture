@@ -1,0 +1,16 @@
+Sorted container:
+Container contains 14 elements.
+0: It is Object-oriented language: name = OOPLang2 (22.4% | 1991), inheritance = INTERFACE. year / name.size() = 248.875
+1: It is Object-oriented language: name = OOPLang5 (2.4% | 1991), inheritance = INTERFACE. year / name.size() = 248.875
+2: It is Object-oriented language: name = OOPLang3 (12.8% | 1990), inheritance = SINGLE. year / name.size() = 248.75
+3: It is Object-oriented language: name = OOPLang6 (2.8% | 1990), inheritance = SINGLE. year / name.size() = 248.75
+4: It is Object-oriented language: name = OOPLang1 (2.3% | 1980), inheritance = MULTIPLE. year / name.size() = 247.5
+5: It is Object-oriented language: name = OOPLang4 (0.3% | 1980), inheritance = MULTIPLE. year / name.size() = 247.5
+6: It is Functional language: name = FuncLang1 (10.2% | 1954), typing = STATIC, lazy calculations = true. year / name.size() = 217.111
+7: It is Functional language: name = FuncLang3 (0.2% | 1954), typing = STATIC, lazy calculations = true. year / name.size() = 217.111
+8: It is Procedure language: name = ProcLang4 (0.22% | 1952), abstract types support = false. year / name.size() = 216.889
+9: It is Functional language: name = FuncLang4 (0.26% | 1952), typing = DYNAMIC, lazy calculations = true. year / name.size() = 216.889
+10: It is Procedure language: name = ProcLang2 (4.22% | 1952), abstract types support = false. year / name.size() = 216.889
+11: It is Functional language: name = FuncLang2 (5.26% | 1952), typing = DYNAMIC, lazy calculations = true. year / name.size() = 216.889
+12: It is Procedure language: name = ProcLang3 (0.83% | 1951), abstract types support = true. year / name.size() = 216.778
+13: It is Procedure language: name = ProcLang1 (0.83% | 1951), abstract types support = true. year / name.size() = 216.778
