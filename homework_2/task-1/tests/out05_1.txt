@@ -1,3 +1,0 @@
-Filled container:
-Container contains 1 elements.
-0: It is Procedure language: name = CoolProcLang (100% | 1983), abstract types support = false. year / name.size() = 165.25
