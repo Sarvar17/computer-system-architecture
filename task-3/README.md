@@ -20,4 +20,4 @@
 Маркеры модуля `__init__.py` - **3 шт**
 
 
-![дерево файлов](https://github.com/samplec0de/computer-system-architecture/blob/task-3/homework/task-3/tree.png?raw=true)
+![дерево файлов]()
