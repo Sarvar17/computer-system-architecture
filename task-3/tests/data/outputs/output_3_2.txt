@@ -1,0 +1,7 @@
+Sorted container:
+Container contains 5 elements.
+0: It is Functional language: name = FuncA (40.199% | 1950), typing = DYNAMIC, lazy calculations = true. year / name.size() = 390.000
+1: It is Functional language: name = FuncB (40.2% | 1950), typing = STRICT, lazy calculations = true. year / name.size() = 390.000
+2: It is Object-oriented language: name = OOPTop2 (5.5% | 1993), inheritance = INTERFACE. year / name.size() = 284.714
+3: It is Object-oriented language: name = OOPTop1 (7.5% | 1991), inheritance = MULTIPLE. year / name.size() = 284.429
+4: It is Object-oriented language: name = OOPTop0 (4.8% | 1990), inheritance = SINGLE. year / name.size() = 284.286
