@@ -1,0 +1,14 @@
+procedure ProcLang1 0.83 1951 1
+procedure ProcLang2 4.22 1952 0
+functional FuncLang1 10.2 1954 0 1
+functional FuncLang2 5.26 1952 1 1
+oop OOPLang1 2.3 1980 1
+oop OOPLang2 22.4 1991 2
+oop OOPLang3 12.8 1990 0
+procedure ProcLang3 0.83 1951 1
+procedure ProcLang4 0.22 1952 0
+functional FuncLang3 0.2 1954 0 1
+functional FuncLang4 0.26 1952 1 1
+oop OOPLang4 0.3 1980 1
+oop OOPLang5 2.4 1991 2
+oop OOPLang6 2.8 1990 0

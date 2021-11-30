@@ -1,0 +1,8 @@
+Sorted container:
+Container contains 6 elements.
+0: It is Functional language: name = FuncLang (10.2% | 1959), typing = STRICT, lazy calculations = true. year / name.size() = 244.875
+1: It is Procedure language: name = CoolProcLang (11.83% | 1983), abstract types support = true. year / name.size() = 165.250
+2: It is Object-oriented language: name = Puper_OOP_Lang (2.4% | 1991), inheritance = INTERFACE. year / name.size() = 142.214
+3: It is Object-oriented language: name = Crazy_OOP_Lang (2.8% | 1990), inheritance = SINGLE. year / name.size() = 142.142
+4: It is Object-oriented language: name = Super_OOP_Lang (2.3% | 1989), inheritance = MULTIPLE. year / name.size() = 142.071
+5: It is Procedure language: name = CoolNoAbstrProcLang (5.22% | 1999), abstract types support = false. year / name.size() = 105.210
